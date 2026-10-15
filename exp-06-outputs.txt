@@ -1,0 +1,16 @@
+6a:
+Array error : index Index 5 out of bounds for length 3
+Math error : / by zero
+Null error : the object was never created
+finally : always runs
+Program continued normally.
+
+6b:
+Age 21 accepted
+Rejected : Age 15 is below 18
+
+case study:
+Dispensed 2000.0, balance 3000.0
+Refused : 350.0 is not a multiple of 100
+Refused : Balance is only 3000.0
+Dispensed 1500.0, balance 1500.0
