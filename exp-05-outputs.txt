@@ -1,0 +1,40 @@
+5a:
+Thread A : 1
+Thread A : 2
+Thread B : 1
+Thread A : 3
+Thread B : 2
+Thread B : 3
+
+5b:
+Final count = 20000
+
+Case Study:
+Counter-1 booked seat. Left = 9
+Counter-2 booked seat. Left = 8
+Counter-3 booked seat. Left = 7
+Counter-1 booked seat. Left = 6
+Counter-2 booked seat. Left = 5
+Counter-3 booked seat. Left = 4
+Counter-1 booked seat. Left = 3
+Counter-2 booked seat. Left = 2
+Counter-3 booked seat. Left = 1
+Counter-1 booked seat. Left = 0
+Counter-2 -> HOUSE FULL
+Counter-3 -> HOUSE FULL
+Counter-1 -> HOUSE FULL
+Counter-2 -> HOUSE FULL
+Counter-3 -> HOUSE FULL
+Counter-1 -> HOUSE FULL
+Counter-2 -> HOUSE FULL
+Counter-3 -> HOUSE FULL
+Counter-2 -> HOUSE FULL
+Counter-3 -> HOUSE FULL
+Counter-1 -> HOUSE FULL
+Counter-2 -> HOUSE FULL
+Counter-3 -> HOUSE FULL
+Counter-1 -> HOUSE FULL
+Counter-2 -> HOUSE FULL
+Counter-3 -> HOUSE FULL
+Counter-1 -> HOUSE FULL
+Booking process completed.
