@@ -1,0 +1,28 @@
+ exp-1(a):
+ROLL NAME MARKS
+101 Aravind 78
+102 Divya 91
+
+  exp-1(b):
+78 Pass
+91 Pass
+45 Fail
+66 Pass
+88 Pass
+Total = 368
+
+  exp-1(c)
+Length : 17
+Upper case : SCSVMV UNIVERSITY
+First six : SCSVMV
+Position of U: 7
+Replace S->X: XCXVMV Univerxity
+Original : SCSVMV University
+madam is a palindrome
+
+  casestudy-1
+NAME       DAYS     BILL
+Aravind      28  2380.00
+Divya        30  2550.00
+Karthik      25  2125.00
+Total collection = Rs. 7055.00
