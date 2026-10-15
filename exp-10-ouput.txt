@@ -1,0 +1,19 @@
+10a:
+REG_NO     NAME            MARKS
+101        Ravi            85
+102        Priya           90
+103        Arun            78
+
+10b:
+REG_NO 	NAME      MARKS
+103	    Karthik	  45
+
+Case sTUDY:
+Register number to search: 103
+103 Karthik 45
+1 row(s) affected.
+103 Karthik 95
+
+
+reg_no	name	    marks
+103	    Karthik	  95
