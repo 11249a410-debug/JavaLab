@@ -1,0 +1,11 @@
+ case study:
+UPI   charge     0.00 total   75000.00
+Card  charge  1500.00 total   76500.00
+Cash  charge    20.00 total   75020.00
+
+ 3a:
+ Circle   area = 78.54
+Rect     area = 24.00
+
+3b:
+[Anu(92), Kiran(67), Ravi(45)]
