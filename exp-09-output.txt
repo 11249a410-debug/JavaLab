@@ -1,0 +1,28 @@
+9.A.1:
+A window titled BorderLayout will display five buttons:
+
+NORTH — top
+
+SOUTH — bottom
+
+EAST — right
+
+WEST — left
+
+CENTER — middle
+
+9.A.2:
+LINK OFR GRIDLAYOUT:
+C:\Users\Administrator\Pictures\Screenshots\Screenshot 2026-10-15 123700.png
+
+9.A.3:
+LINK OF FlowLayout:
+C:\Users\Administrator\Pictures\Screenshots\Screenshot 2026-10-15 123423.png
+
+9.B:
+LINK OF LOGIN PAGE:
+C:\Users\Administrator\Pictures\Screenshots\Screenshot 2026-10-15 123928.png
+
+CASE STUDY:
+LINK:
+C:\Users\Administrator\Pictures\Screenshots\Screenshot 2026-10-15 124038.png
