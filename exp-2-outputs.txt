@@ -1,0 +1,13 @@
+ exp-2a
+Square of 5 = 25
+Cube of 5 = 125
+
+ exp-2b
+Square of 7 = 49
+Cube of 3 = 27
+
+ exp-casesstudy
+Meena    BE      75000.00
+Ravi     ME      60000.00
+Anu      BSc     40000.00
+Total fee = 175000.00
